@@ -3,8 +3,8 @@ Contenido de aules de 2SMX
 
 ## Horario de las clases
 
->  Aplicaciones Web
->  Miercoles: 14:10 a 16:00 y Jueves: 16:00 a 16:55
+>  Aplicaciones Web **:** 
+>   Miercoles: 14:10 a 16:00 y Jueves: 16:00 a 16:55
 
 
 
