@@ -1,11 +1,11 @@
-# Servicios en red - 2ºSMX
+# Servicios en red - <sub>2ºSMX</sub>
 
-### Description of the module
-In this module, we will study the production system.
+### **Description of the _module_**
+In this module, we configure *networks* on 💀 virtual machines 💀.
 
-## Teacher's name
+## 💻 *Teacher's name* 💻
 Enrique Galduf Tel
 
 ### Aules URL
-
+https://aules.edu.gva.es/fp/course/view.php?id=176521
 
