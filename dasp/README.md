@@ -1,9 +1,9 @@
-# DASP - 2ºSMX
+# DASP - <sub>2ºSMX</sub>
 
-### Description of the module
-In this module, we will study the production system.
+### ***Description of the module***
+**In this module, we will _study_ the production system.**
 
-## Teacher's name
-Toni Gomez Gomez
+## Teacher's <ins>*name*</ins>
+😎 Toni Gomez Gomez 😎
 
 ### Aules URL
